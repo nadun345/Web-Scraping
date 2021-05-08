@@ -9,8 +9,7 @@ The code has been designed in order to capture the Date, Title and the Link of e
 The sample excel file "export_dataframe.xlsx" contain the results after running the program.
 
 # Required Libraries
-pandas
-selenium
-BeautifulSoup
+pandas, selenium, BeautifulSoup
+
 Chrome Driver which supports the current Chrome Version
 https://chromedriver.chromium.org/
